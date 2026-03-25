@@ -7,7 +7,7 @@
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Status-Building-2ea44f" alt="status"></a>
   <a href="#"><img src="https://img.shields.io/badge/Papers-440-blue" alt="papers"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Last%20Update-2026--03--16-orange" alt="last-update"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Last%20Update-2026--03--24-orange" alt="last-update"></a>
   <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-lightgrey" alt="license"></a>
 </p>
 

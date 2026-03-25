@@ -40,8 +40,6 @@ This repository is a curated survey list for **Agentic Harness Engineering**, or
 
 - Browse by section: follow the same chapter order as the survey paper.
 - Start with tagged tracks: `Foundations`, `Agent Loop`, `Memory`, `Skills`, `Multi-Agent`, `Optimization`, `Evaluation`.
-- Add papers with consistent metadata so this list stays searchable.
-
 <!-- ### Entry Template
 
 Use the following format when adding a paper:

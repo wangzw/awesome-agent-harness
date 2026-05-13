@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Status-Building-2ea44f" alt="status"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Papers-475-blue" alt="papers"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Papers-416-blue" alt="papers"></a>
   <a href="#"><img src="https://img.shields.io/badge/Last%20Update-2026--05--13-orange" alt="last-update"></a>
   <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-lightgrey" alt="license"></a>
 </p>
@@ -32,14 +32,7 @@ The organization of this repository refers to our survey [<u>"Agent Systems with
 1. From Automation to Autonomy: A Survey on Large Language Models in Scientific Discovery. [[Paper]](https://doi.org/10.18653/v1/2025.emnlp-main.895) `ACL 2025`
 1. Language Models are Few-Shot Learners. `NeurIPS 2020`
 1. Pre-Trained Language Models for Text Generation: A Survey. [[Paper]](https://doi.org/10.1145/3649449) `CSUR 2024`
-1. Qwen3 Technical Report. [[Paper]](https://arxiv.org/abs/2505.09388) `arXiv 2025`
-1. Chain-of-Thought Prompting Elicits Reasoning in Large Language Models. [[Paper]](https://arxiv.org/pdf/2201.11903.pdf) [[Code]](https://github.com/google-research/url-nlp/tree/main/mgsm) `NeurIPS 2022`
-1. Toolformer: Language Models Can Teach Themselves to Use Tools. [[Paper]](https://arxiv.org/pdf/2302.04761.pdf) `NeurIPS 2023`
 1. A Survey of Context Engineering for Large Language Models. [[Paper]](https://arxiv.org/abs/2507.13334) `arXiv 2025`
-1. ReAct: Synergizing Reasoning and Acting in Language Models. [[Paper]](https://arxiv.org/pdf/2210.03629.pdf) [[Code]](https://github.com/ysymyth/ReAct) `ICLR 2023`
-1. OpenHands: An Open Platform for AI Software Developers as Generalist Agents. [[Paper]](https://openreview.net/forum?id=OJd3ayDDoF) `ICLR 2025`
-1. SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering. [[Paper]](https://arxiv.org/pdf/2405.15793.pdf) [[Code]](https://github.com/princeton-nlp/SWE-agent) `NeurIPS 2024`
-1. Claude Code Overview. `2026`
 1. Large Language Model Agent: A Survey on Methodology, Applications and Challenges. [[Paper]](https://doi.org/10.48550/arXiv.2503.21460) `arXiv 2025`
 1. A Survey on the Feedback Mechanism of LLM-based AI Agents. [[Paper]](https://doi.org/10.24963/ijcai.2025/1175) `IJCAI 2025`
 1. Agentic Large Language Models, a Survey. [[Paper]](https://doi.org/10.1613/jair.1.18675) `JAIR 2025`
@@ -48,63 +41,14 @@ The organization of this repository refers to our survey [<u>"Agent Systems with
 1. Evaluation and Benchmarking of LLM Agents: A Survey. [[Paper]](https://doi.org/10.1145/3711896.3736570) `KDD 2025`
 1. From Static Templates to Dynamic Runtime Graphs: A Survey of Workflow Optimization for LLM Agents. [[Paper]](https://arxiv.org/abs/2603.22386) `2026`
 1. A Survey on Trustworthy LLM Agents: Threats and Countermeasures. [[Paper]](https://doi.org/10.1145/3711896.3736561) `KDD 2025`
-1. AutoAgents: A Framework for Automatic Agent Generation. [[Paper]](https://arxiv.org/pdf/2309.17288) [[Code]](https://github.com/Link-AGI/AutoAgents) `IJCAI 2024`
-1. GAP: Graph-Based Agent Planning with Parallel Tool Use and Reinforcement Learning. [[Paper]](https://openreview.net/pdf?id=7bJIVHEvLm) [[Code]](https://github.com/WJQ7777/Graph-Agent-Planning) `arXiv 2025`
-1. Reflexion: language agents with verbal reinforcement learning. [[Paper]](https://arxiv.org/abs/2303.11366) [[Code]](https://github.com/noahshinn/reflexion) `NeurIPS 2023`
-1. ToolHop: A Query-Driven Benchmark for Evaluating Large Language Models in Multi-Hop Tool Use. [[Paper]](https://aclanthology.org/2025.acl-long.150/) `ACL 2025`
-1. ToolRL: Reward is All Tool Learning Needs. [[Paper]](https://arxiv.org/abs/2504.13958) `arXiv 2025`
-1. Memo: Training Memory-Efficient Embodied Agents with Reinforcement Learning. [[Paper]](https://arxiv.org/pdf/2510.19732.pdf) [[Code]](https://github.com/gunshi/memo) `NeurIPS 2025`
 1. Memory OS of AI Agent. [[Paper]](https://aclanthology.org/2025.emnlp-main.1318.pdf) [[Code]](https://github.com/BAI-LAB/MemoryOS) `ACL 2025`
-1. Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory. [[Paper]](https://arxiv.org/pdf/2504.19413) [[Code]](https://mem0.ai/research) `ECAI 2025`
-1. MemoryBank: Enhancing Large Language Models with Long-Term Memory. [[Paper]](https://arxiv.org/pdf/2305.10250.pdf) [[Code]](https://github.com/zhongwanjun/MemoryBank-SiliconFriend) `AAAI 2024`
-1. A-Mem: Agentic Memory for LLM Agents. [[Paper]](https://arxiv.org/pdf/2502.12110) [[Code]](https://github.com/WujiangXu/A-mem) `NeurIPS 2025`
-1. AgentSys: Secure and Dynamic LLM Agents Through Explicit Hierarchical Memory Management. [[Paper]](https://arxiv.org/abs/2602.07398) `arXiv 2026`
-1. SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning. [[Paper]](https://arxiv.org/pdf/2602.08234.pdf) [[Code]](https://github.com/aiming-lab/SkillRL) `arXiv 2026`
-1. Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills. [[Paper]](https://arxiv.org/abs/2603.25158) `arXiv 2026`
-1. SoK: Agentic Skills - Beyond Tool Use in LLM Agents. [[Paper]](https://doi.org/10.48550/arXiv.2602.20867) `arXiv 2026`
-1. SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience. [[Paper]](https://arxiv.org/pdf/2508.04700.pdf) [[Code]](https://github.com/SunzeY/SEAgent) `arXiv 2025`
-1. ToolGen: Unified Tool Retrieval and Calling via Generation. [[Paper]](https://arxiv.org/pdf/2410.03439.pdf) [[Code]](https://github.com/Reason-Wang/ToolGen) `ICLR 2025`
-1. AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversations. [[Paper]](https://openreview.net/pdf?id=BAakY1hNKS) [[Code]](https://github.com/microsoft/autogen) `COLM 2024`
-1. MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework. [[Paper]](https://openreview.net/pdf?id=VtmBAGCN7o) [[Code]](https://github.com/geekan/MetaGPT) `ICLR 2024`
-1. ChatDev: Communicative Agents for Software Development. [[Paper]](https://aclanthology.org/2024.acl-long.810.pdf) [[Code]](https://github.com/OpenBMB/ChatDev) `ACL 2024`
-1. AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents. [[Paper]](https://openreview.net/pdf?id=EHg5GDnyq1) [[Code]](https://github.com/OpenBMB/AgentVerse) `arXiv 2023`
-1. AgentOrchestra: Orchestrating Multi-Agent Intelligence with the Tool-Environment-Agent(TEA) Protocol. [[Paper]](https://doi.org/10.48550/arXiv.2506.12508) `arXiv 2025`
-1. StructRAG: Boosting Knowledge Intensive Reasoning of LLMs via Inference-time Hybrid Information Structurization. `ICLR 2025`
-1. Deeprag: Thinking to retrieve step by step for large language models. [[Paper]](https://arxiv.org/pdf/2502.01142.pdf) [[Code]](https://github.com/gxy-gxy/DeepRAG) `arXiv 2025`
-1. CoSER: A Comprehensive Literary Dataset and Framework for Training and Evaluating LLM Role-Playing and Persona Simulation. [[Paper]](https://arxiv.org/pdf/2502.09082) [[Code]](https://github.com/Neph0s/CoSER) `ICML 2025`
-1. Reducing Cost of LLM Agents with Trajectory Reduction. [[Paper]](https://arxiv.org/abs/2509.23586) `arXiv 2025`
 1. DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning. [[Paper]](https://arxiv.org/abs/2501.12948) [[Code]](https://github.com/deepseek-ai/DeepSeek-R1) `arXiv 2025`
-1. HybridFlow: A Flexible and Efficient RLHF Framework. [[Paper]](https://arxiv.org/abs/2409.19256) [[Code]](https://github.com/volcengine/verl) `EuroSys 2025`
-1. DAPO: An Open-Source LLM Reinforcement Learning System at Scale. [[Paper]](https://arxiv.org/abs/2503.14476) [[Code]](https://github.com/BytedTsinghua-SIA/DAPO) `arXiv 2025`
-1. Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning. [[Paper]](https://arxiv.org/abs/2503.09516) `arXiv 2025`
-1. RAGEN: Understanding Self-Evolution in LLM Agents via Multi-Turn Reinforcement Learning. [[Paper]](https://arxiv.org/abs/2504.20073) [[Code]](https://github.com/RAGEN-AI/RAGEN) `arXiv 2025`
-1. BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents. [[Paper]](https://doi.org/10.48550/arXiv.2504.12516) `arXiv 2025`
-1. Characterizing Deep Research: A Benchmark and Formal Definition. [[Paper]](https://arxiv.org/pdf/2508.04183) [[Code]](https://github.com/microsoft/LiveDRBench) `arXiv 2025`
-1. WideSearch: Benchmarking Agentic Broad Info-Seeking. [[Paper]](https://doi.org/10.48550/arXiv.2508.07999) `arXiv 2025`
 1. DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents. [[Paper]](https://arxiv.org/pdf/2506.11763) [[Code]](https://github.com/Ayanami0730/deep_research_bench) `arXiv 2025`
-1. Can Language Models Replace Programmers for Coding? REPOCOD Says 'Not Yet'. [[Paper]](https://aclanthology.org/2025.acl-long.1204/) `ACL 2025`
-1. SWE-Bench Pro: Can AI Agents Solve Long-Horizon Software Engineering Tasks?. [[Paper]](https://doi.org/10.48550/arXiv.2509.16941) `arXiv 2025`
 1. SWE-Bench++: A Framework for the Scalable Generation of Software Engineering Benchmarks from Open-Source Repositories. [[Paper]](https://doi.org/10.48550/arXiv.2512.17419) `arXiv 2025`
-1. OmniCode: A Benchmark for Evaluating Software Engineering Agents. [[Paper]](https://doi.org/10.48550/arXiv.2602.02262) `arXiv 2026`
-1. LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code. [[Paper]](https://arxiv.org/pdf/2403.07974) [[Code]](https://github.com/LiveCodeBench/LiveCodeBench) `ICLR 2025`
-1. The Berkeley Function Calling Leaderboard (BFCL): From Tool Use to Agentic Evaluation of Large Language Models. [[Paper]](https://openreview.net/pdf?id=2GmDdhBdDk) [[Code]](https://github.com/ShishirPatil/gorilla/tree/main/berkeley-function-call-leaderboard) `ICML 2025`
-1. DICE-BENCH: Evaluating the Tool-Use Capabilities of Large Language Models in Multi-Round, Multi-Party Dialogues. [[Paper]](https://aclanthology.org/2025.findings-acl.1375/) `ACL Findings 2025`
-1. Toolsandbox: A stateful, conversational, interactive evaluation benchmark for llm tool use capabilities. [[Paper]](https://arxiv.org/pdf/2408.04682) [[Code]](https://github.com/apple/ToolSandbox) `ACL Findings 2025`
-1. tau^2-Bench: Evaluating Conversational Agents in a Dual-Control Environment. [[Paper]](https://arxiv.org/pdf/2506.07982) [[Code]](https://github.com/sierra-research/tau2-bench) `arXiv 2025`
-1. Gaia-2: A controllable multi-view generative world model for autonomous driving. [[Paper]](https://arxiv.org/abs/2503.20523) `arXiv 2025`
-1. WorldGUI: An Interactive Benchmark for Desktop GUI Automation from Any Starting Point. [[Paper]](https://doi.org/10.48550/arXiv.2502.08047) `arXiv 2025`
-1. MMBench-GUI: Hierarchical Multi-Platform Evaluation Framework for GUI Agents. [[Paper]](https://doi.org/10.48550/arXiv.2507.19478) `arXiv 2025`
-1. AndroidWorld: A Dynamic Benchmarking Environment for Autonomous Agents. [[Paper]](https://arxiv.org/pdf/2405.14573) [[Code]](https://github.com/google-research/android_world) `ICLR 2025`
-1. Osworld-mcp: Benchmarking mcp tool invocation in computer-use agents. [[Paper]](https://arxiv.org/pdf/2510.24563) [[Code]](https://github.com/X-PLUG/OSWorld-MCP) `arXiv 2025`
 1. ResearchBench: Benchmarking LLMs in Scientific Discovery via Inspiration-Based Task Decomposition. [[Paper]](https://doi.org/10.48550/arXiv.2503.21248) `arXiv 2025`
-1. ScienceAgentBench: Toward Rigorous Assessment of Language Agents for Data-Driven Scientific Discovery. [[Paper]](https://arxiv.org/pdf/2410.05080) [[Code]](https://github.com/OSU-NLP-Group/ScienceAgentBench) `ICLR 2025`
-1. MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering. [[Paper]](https://arxiv.org/pdf/2410.07095) [[Code]](https://github.com/openai/mle-bench) `ICLR 2025`
-1. PaperBench: Evaluating AI's Ability to Replicate AI Research. [[Paper]](https://arxiv.org/pdf/2504.01848) [[Code]](https://github.com/openai/preparedness) `ICML 2025`
 
 ## 2. Foundations of Harness Engineering
-1. OpenHands: An Open Platform for AI Software Developers as Generalist Agents. [[Paper]](https://openreview.net/forum?id=OJd3ayDDoF) `ICLR 2025`
 1. AI runtime infrastructure. [[Paper]](https://arxiv.org/abs/2603.00495) `arXiv 2026`
-1. The OpenHands Software Agent SDK: A Composable and Extensible Foundation for Production Agents. [[Paper]](https://doi.org/10.48550/arXiv.2511.03690) `arXiv 2025`
 1. Beyond Context Sharing: A Unified Agent Communication Protocol (ACP) for Secure, Federated, and Autonomous Agent-to-Agent (A2A) Orchestration. [[Paper]](https://arxiv.org/abs/2602.15055) `arXiv 2026`
 
 ### 2.1. The Concept of Harness Engineering
@@ -135,7 +79,7 @@ The organization of this repository refers to our survey [<u>"Agent Systems with
 1. User Preference Modeling for Conversational LLM Agents: Weak Rewards from Retrieval-Augmented Interaction. [[Paper]](https://arxiv.org/abs/2603.20939) `arXiv 2026`
 1. From Human Memory to AI Memory: A Survey on Memory Mechanisms in the Era of LLMs. [[Paper]](https://doi.org/10.48550/arXiv.2504.15965) `arXiv 2025`
 1. Persistent Assistant: Seamless Everyday AI Interactions via Intent Grounding and Multimodal Feedback. [[Paper]](https://doi.org/10.1145/3706598.3714317) `CHI 2025`
-1. Introducing OpenClaw. `2026`
+1. Introducing OpenClaw. [[Blog]](https://openclaw.ai/blog/introducing-openclaw) `2026`
 ### 2.3. Connections with Related Concepts
 ##### 2.3.1. Agent Framework
 1. The OpenHands Software Agent SDK: A Composable and Extensible Foundation for Production Agents. [[Paper]](https://doi.org/10.48550/arXiv.2511.03690) `arXiv 2025`
@@ -151,7 +95,7 @@ The organization of this repository refers to our survey [<u>"Agent Systems with
 
 ## 3. The Design of the Harness
 ### 3.1. Agent Workflow
-1. Unrolling the Codex agent loop. [[Paper]](https://openai.com/zh-Hans-CN/index/unrolling-the-codex-agent-loop/) `2026`
+1. Unrolling the Codex agent loop. [[Blog]](https://openai.com/zh-Hans-CN/index/unrolling-the-codex-agent-loop/) `2026`
 
 #### 3.1.1. Environment Perception
 ##### 3.1.1.1. Observation Extraction
@@ -180,7 +124,7 @@ The organization of this repository refers to our survey [<u>"Agent Systems with
 1. DynaWeb: Model-Based Reinforcement Learning of Web Agents. [[Paper]](https://doi.org/10.48550/arXiv.2601.22149) `arXiv 2026`
 1. GRAPHGPT-O: Synergistic Multimodal Comprehension and Generation on Graphs. [[Paper]](https://arxiv.org/pdf/2502.11925.pdf) [[Code]](https://github.com/YiFang99/GraphGPT-O) `CVPR 2025`
 1. ESCA: Contextualizing Embodied Agents via Scene-Graph Generation. [[Paper]](https://arxiv.org/pdf/2510.15963.pdf) [[Code]](https://github.com/video-fm/ESCA) `NeurIPS 2025`
-1. Building a C compiler with a team of parallel Claudes. [[Paper]](https://www.anthropic.com/engineering/building-c-compiler) `2026`
+1. Building a C compiler with a team of parallel Claudes. [[Blog]](https://www.anthropic.com/engineering/building-c-compiler) `2026`
 #### 3.1.2. Task Planning
 ##### 3.1.2.1. Task Decomposition
 1. Chain-of-Thought Prompting Elicits Reasoning in Large Language Models. [[Paper]](https://arxiv.org/pdf/2201.11903.pdf) [[Code]](https://github.com/google-research/url-nlp/tree/main/mgsm) `NeurIPS 2022`
@@ -189,12 +133,12 @@ The organization of this repository refers to our survey [<u>"Agent Systems with
 1. Graph of Thoughts: Solving Elaborate Problems with Large Language Models. [[Paper]](https://arxiv.org/pdf/2308.09687.pdf) [[Code]](https://github.com/spcl/graph-of-thoughts) `AAAI 2024`
 1. Agentic Reasoning: A Streamlined Framework for Enhancing LLM Reasoning with Agentic Tools. [[Paper]](https://aclanthology.org/2025.acl-long.1383.pdf) `ACL 2025`
 1. Agentic Reasoning for Large Language Models. [[Paper]](https://doi.org/10.48550/arXiv.2601.12538) `arXiv 2026`
-1. Effective Harnesses for Long-Running Agents. [[Paper]](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents) `2025`
-1. Building a C compiler with a team of parallel Claudes. [[Paper]](https://www.anthropic.com/engineering/building-c-compiler) `2026`
+1. Effective Harnesses for Long-Running Agents. [[Blog]](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents) `2025`
+1. Building a C compiler with a team of parallel Claudes. [[Blog]](https://www.anthropic.com/engineering/building-c-compiler) `2026`
 ##### 3.1.2.2. Plan Generation
 1. AvaTaR: Optimizing LLM Agents for Tool Usage via Contrastive Reasoning. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/2db8ce969b000fe0b3fb172490c33ce8-Paper-Conference.pdf) [[Code]](https://github.com/zou-group/avatar) `NeurIPS 2024`
 1. GAP: Graph-Based Agent Planning with Parallel Tool Use and Reinforcement Learning. [[Paper]](https://openreview.net/pdf?id=7bJIVHEvLm) [[Code]](https://github.com/WJQ7777/Graph-Agent-Planning) `arXiv 2025`
-1. Effective Harnesses for Long-Running Agents. [[Paper]](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents) `2025`
+1. Effective Harnesses for Long-Running Agents. [[Blog]](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents) `2025`
 #### 3.1.3. Action Execution
 ##### 3.1.3.1. Tool Invocation
 1. Toolformer: Language Models Can Teach Themselves to Use Tools. [[Paper]](https://arxiv.org/pdf/2302.04761.pdf) `NeurIPS 2023`
@@ -204,7 +148,7 @@ The organization of this repository refers to our survey [<u>"Agent Systems with
 1. Robust Tool Use via Fission-GRPO: Learning to Recover from Execution Errors. [[Paper]](https://arxiv.org/abs/2601.15625) `2026`
 1. Agent0-VL: Exploring Self-Evolving Agent for Tool-Integrated Vision-Language Reasoning. [[Paper]](https://arxiv.org/abs/2511.19900) `2025`
 1. Scaling Agentic Reinforcement Learning for Tool-Integrated Reasoning in VLMs. [[Paper]](https://arxiv.org/abs/2511.19773) `2025`
-1. Code execution with MCP: building more efficient AI agents. [[Paper]](https://www.anthropic.com/engineering/code-execution-with-mcp) `2025`
+1. Code execution with MCP: building more efficient AI agents. [[Blog]](https://www.anthropic.com/engineering/code-execution-with-mcp) `2025`
 ##### 3.1.3.2. Environment Interaction
 1. ReAct: Synergizing Reasoning and Acting in Language Models. [[Paper]](https://arxiv.org/pdf/2210.03629.pdf) [[Code]](https://github.com/ysymyth/ReAct) `ICLR 2023`
 1. SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering. [[Paper]](https://arxiv.org/pdf/2405.15793.pdf) [[Code]](https://github.com/princeton-nlp/SWE-agent) `NeurIPS 2024`
@@ -213,11 +157,8 @@ The organization of this repository refers to our survey [<u>"Agent Systems with
 1. Quine: Realizing LLM Agents as Native POSIX Processes. [[Paper]](https://arxiv.org/abs/2603.18030) `arXiv 2026`
 1. Agent-Fence: Mapping Security Vulnerabilities Across Deep Research Agents. [[Paper]](https://arxiv.org/abs/2602.07652) `2026`
 ### 3.2. Memory Systems
-1. Managing Context on the Claude Developer Platform. [[Paper]](https://www.anthropic.com/news/context-management) `2025`
-1. Effective Harnesses for Long-Running Agents. [[Paper]](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents) `2025`
 
 #### 3.2.1. Short-term Memory
-1. Managing Context on the Claude Developer Platform. [[Paper]](https://www.anthropic.com/news/context-management) `2025`
 
 ##### 3.2.1.1. Working Memory
 1. ReAct: Synergizing Reasoning and Acting in Language Models. [[Paper]](https://arxiv.org/pdf/2210.03629.pdf) [[Code]](https://github.com/ysymyth/ReAct) `ICLR 2023`
@@ -225,8 +166,8 @@ The organization of this repository refers to our survey [<u>"Agent Systems with
 1. Memo: Training Memory-Efficient Embodied Agents with Reinforcement Learning. [[Paper]](https://arxiv.org/pdf/2510.19732.pdf) [[Code]](https://github.com/gunshi/memo) `NeurIPS 2025`
 1. Graph-based Agent Memory: Taxonomy, Techniques, and Applications. [[Paper]](https://doi.org/10.48550/arXiv.2602.05665) `arXiv 2026`
 1. Agent Workflow Memory. [[Paper]](https://arxiv.org/pdf/2409.07429) [[Code]](https://github.com/zorazrw/agent-workflow-memory) `ICML 2025`
-1. Managing Context on the Claude Developer Platform. [[Paper]](https://www.anthropic.com/news/context-management) `2025`
-1. Effective Harnesses for Long-Running Agents. [[Paper]](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents) `2025`
+1. Managing Context on the Claude Developer Platform. [[Blog]](https://www.anthropic.com/news/context-management) `2025`
+1. Effective Harnesses for Long-Running Agents. [[Blog]](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents) `2025`
 ##### 3.2.1.2. Conversational Memory
 1. From Isolated Conversations to Hierarchical Schemas: Dynamic Tree Memory Representation for LLMs. [[Paper]](https://openreview.net/forum?id=moXtEmCleY) `ICLR 2025`
 1. MemGPT: Towards LLMs as Operating Systems. [[Paper]](https://arxiv.org/pdf/2310.08560) [[Code]](https://research.memgpt.ai/) `arXiv 2023`
@@ -237,10 +178,10 @@ The organization of this repository refers to our survey [<u>"Agent Systems with
 1. Zep: A Temporal Knowledge Graph Architecture for Agent Memory. [[Paper]](https://doi.org/10.48550/arXiv.2501.13956) `arXiv 2025`
 1. Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents. [[Paper]](https://doi.org/10.48550/arXiv.2601.01885) `arXiv 2026`
 1. FluxMem: Adaptive Hierarchical Memory for Streaming Video Understanding. `CVPR 2026`
-1. Managing Context on the Claude Developer Platform. [[Paper]](https://www.anthropic.com/news/context-management) `2025`
+1. Managing Context on the Claude Developer Platform. [[Blog]](https://www.anthropic.com/news/context-management) `2025`
 #### 3.2.2. Long-term Memory
-1. Memory Overview. [[Paper]](https://docs.langchain.com/oss/python/concepts/memory) `2026`
-1. LangMem. [[Paper]](https://langchain-ai.github.io/langmem/) `2026`
+1. Memory Overview. [[Docs]](https://docs.langchain.com/oss/python/concepts/memory) `2026`
+1. LangMem. [[Docs]](https://langchain-ai.github.io/langmem/) `2026`
 
 ##### 3.2.2.1. Structured Memory
 1. Graph-Native Cognitive Memory for AI Agents: Formal Belief Revision Semantics for Versioned Memory Architectures. [[Paper]](https://arxiv.org/abs/2603.17244) `arXiv 2026`
@@ -260,17 +201,12 @@ The organization of this repository refers to our survey [<u>"Agent Systems with
 1. O-Mem: Omni Memory System for Personalized, Long Horizon, Self-Evolving Agents. [[Paper]](https://arxiv.org/abs/2511.13593) `2025`
 1. General Agentic Memory Via Deep Research. [[Paper]](https://arxiv.org/abs/2511.18423) `2025`
 1. Mem0: Universal Memory Layer for AI Agents. [[Paper]](https://github.com/mem0ai/mem0) `2026`
-1. OpenMemory: AI Memory MCP Server for Coding Agents. [[Paper]](https://mem0.ai/openmemory) `2026`
-1. Memory - Docs by LangChain. [[Paper]](https://docs.langchain.com/oss/python/deepagents/memory) `2026`
-1. Context Engineering: Memory, Compaction, and Tool Clearing. [[Paper]](https://platform.claude.com/cookbook/tool-use-context-engineering-context-engineering-tools) `2026`
+1. OpenMemory: AI Memory MCP Server for Coding Agents. [[Website]](https://mem0.ai/openmemory) `2026`
+1. Memory - Docs by LangChain. [[Docs]](https://docs.langchain.com/oss/python/deepagents/memory) `2026`
+1. Context Engineering: Memory, Compaction, and Tool Clearing. [[Docs]](https://platform.claude.com/cookbook/tool-use-context-engineering-context-engineering-tools) `2026`
 ### 3.3. Skill Libraries
-1. SoK: Agentic Skills - Beyond Tool Use in LLM Agents. [[Paper]](https://doi.org/10.48550/arXiv.2602.20867) `arXiv 2026`
-1. Agent Skills for Large Language Models: Architecture, Acquisition, Security, and the Path Forward. [[Paper]](https://arxiv.org/abs/2602.12430) `2026`
 1. SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks. [[Paper]](https://arxiv.org/abs/2602.12670) `arXiv 2026`
-1. Memory - Docs by LangChain. [[Paper]](https://docs.langchain.com/oss/python/deepagents/memory) `2026`
-1. Equipping Agents for the Real World with Agent Skills. [[Paper]](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills) `2025`
-1. Skills in OpenAI API. [[Paper]](https://developers.openai.com/cookbook/examples/skills_in_api) `2026`
-1. SkillRouter: Skill Routing for LLM Agents at Scale. [[Paper]](https://arxiv.org/abs/2603.22455) `arXiv 2026`
+1. Memory - Docs by LangChain. [[Docs]](https://docs.langchain.com/oss/python/deepagents/memory) `2026`
 1. SkillX: Automatically Constructing Skill Knowledge Bases for Agents. [[Paper]](https://arxiv.org/abs/2604.04804) `2026`
 
 #### 3.3.1. Skill Acquisition
@@ -301,11 +237,10 @@ The organization of this repository refers to our survey [<u>"Agent Systems with
 1. Tool-R0: Self-Evolving LLM Agents for Tool-Learning from Zero Data. [[Paper]](https://arxiv.org/abs/2602.21320) `2026`
 ##### 3.3.1.3. Learning from External Resources
 1. SKILLFOUNDRY: Building Self-Evolving Agent Skill Libraries from Heterogeneous Scientific Resources. [[Paper]](https://arxiv.org/abs/2604.03964) `arXiv 2026`
-1. Equipping Agents for the Real World with Agent Skills. [[Paper]](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills) `2025`
-1. Agent Skills. [[Paper]](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview) `2025`
-1. Skills in OpenAI API. [[Paper]](https://developers.openai.com/cookbook/examples/skills_in_api) `2026`
+1. Equipping Agents for the Real World with Agent Skills. [[Blog]](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills) `2025`
+1. Agent Skills. [[Docs]](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview) `2025`
+1. Skills in OpenAI API. [[Docs]](https://developers.openai.com/cookbook/examples/skills_in_api) `2026`
 #### 3.3.2. Skill Management
-1. Skill Retrieval Augmentation for Agentic AI. [[Paper]](https://arxiv.org/abs/2604.24594) `arXiv 2026`
 
 ##### 3.3.2.1. Skill Representation
 1. Voyager: An Open-Ended Embodied Agent with Large Language Models. [[Paper]](https://arxiv.org/pdf/2305.16291.pdf) [[Code]](https://github.com/MineDojo/Voyager) `Trans. Mach. Learn. Res. 2024`
@@ -316,9 +251,9 @@ The organization of this repository refers to our survey [<u>"Agent Systems with
 1. SkillFlow: Scalable and Efficient Agent Skill Retrieval System. [[Paper]](https://arxiv.org/abs/2504.06188) `2026`
 1. ToolGen: Unified Tool Retrieval and Calling via Generation. [[Paper]](https://arxiv.org/pdf/2410.03439.pdf) [[Code]](https://github.com/Reason-Wang/ToolGen) `ICLR 2025`
 1. Evolving Programmatic Skill Networks. [[Paper]](https://doi.org/10.48550/arXiv.2601.03509) `arXiv 2026`
-1. Equipping Agents for the Real World with Agent Skills. [[Paper]](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills) `2025`
-1. Skills in OpenAI API. [[Paper]](https://developers.openai.com/cookbook/examples/skills_in_api) `2026`
-1. Agent Skills. [[Paper]](https://developers.openai.com/codex/skills) `2026`
+1. Equipping Agents for the Real World with Agent Skills. [[Blog]](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills) `2025`
+1. Skills in OpenAI API. [[Docs]](https://developers.openai.com/cookbook/examples/skills_in_api) `2026`
+1. Agent Skills. [[Docs]](https://developers.openai.com/codex/skills) `2026`
 1. Graph of Skills: Dependency-Aware Structural Retrieval for Massive Agent Skills. [[Paper]](https://arxiv.org/abs/2604.05333) `arXiv 2026`
 1. SkillRouter: Skill Routing for LLM Agents at Scale. [[Paper]](https://arxiv.org/abs/2603.22455) `arXiv 2026`
 ##### 3.3.2.2. Skill Retrieval
@@ -336,17 +271,16 @@ The organization of this repository refers to our survey [<u>"Agent Systems with
 1. Skill Retrieval Augmentation for Agentic AI. [[Paper]](https://arxiv.org/abs/2604.24594) `arXiv 2026`
 #### 3.3.3. Skill Maintenance
 ##### 3.3.3.1. Library Curation
-1. Using Skills to Accelerate OSS Maintenance. [[Paper]](https://developers.openai.com/blog/skills-agents-sdk) `2026`
-1. Shell + Skills + Compaction: Tips for Long-Running Agents that Do Real Work. [[Paper]](https://developers.openai.com/blog/skills-shell-tips) `2026`
+1. Using Skills to Accelerate OSS Maintenance. [[Blog]](https://developers.openai.com/blog/skills-agents-sdk) `2026`
+1. Shell + Skills + Compaction: Tips for Long-Running Agents that Do Real Work. [[Blog]](https://developers.openai.com/blog/skills-shell-tips) `2026`
 1. SkillRouter: Skill Routing for LLM Agents at Scale. [[Paper]](https://arxiv.org/abs/2603.22455) `arXiv 2026`
 1. Graph of Skills: Dependency-Aware Structural Retrieval for Massive Agent Skills. [[Paper]](https://arxiv.org/abs/2604.05333) `arXiv 2026`
 ##### 3.3.3.2. Skill Governance
-1. Skills in OpenAI API. [[Paper]](https://developers.openai.com/cookbook/examples/skills_in_api) `2026`
-1. Testing Agent Skills Systematically with Evals. [[Paper]](https://developers.openai.com/blog/eval-skills) `2026`
+1. Skills in OpenAI API. [[Docs]](https://developers.openai.com/cookbook/examples/skills_in_api) `2026`
+1. Testing Agent Skills Systematically with Evals. [[Blog]](https://developers.openai.com/blog/eval-skills) `2026`
 1. Towards Secure Agent Skills: Architecture, Threat Taxonomy, and Security Analysis. [[Paper]](https://arxiv.org/abs/2604.02837) `arXiv 2026`
-1. Equipping Agents for the Real World with Agent Skills. [[Paper]](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills) `2025`
+1. Equipping Agents for the Real World with Agent Skills. [[Blog]](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills) `2025`
 ### 3.4. Multi-agent Orchestration
-1. How We Built Our Multi-Agent Research System. [[Paper]](https://www.anthropic.com/engineering/multi-agent-research-system) `2025`
 
 #### 3.4.1. Coordination Architectures
 ##### 3.4.1.1. Centralized Architectures
@@ -356,7 +290,7 @@ The organization of this repository refers to our survey [<u>"Agent Systems with
 1. MegaAgent: A Large-Scale Autonomous LLM-based Multi-Agent System Without Predefined SOPs. [[Paper]](https://aclanthology.org/2025.findings-acl.259.pdf) [[Code]](https://github.com/Xtra-Computing/MegaAgent) `ACL Findings 2025`
 1. Multi-Agent Collaboration via Evolving Orchestration. [[Paper]](https://arxiv.org/abs/2505.19591) [[Code]](https://github.com/OpenBMB/ChatDev/tree/puppeteer) `NeurIPS 2025`
 1. AutoAgents: A Framework for Automatic Agent Generation. [[Paper]](https://arxiv.org/pdf/2309.17288) [[Code]](https://github.com/Link-AGI/AutoAgents) `IJCAI 2024`
-1. How We Built Our Multi-Agent Research System. [[Paper]](https://www.anthropic.com/engineering/multi-agent-research-system) `2025`
+1. How We Built Our Multi-Agent Research System. [[Blog]](https://www.anthropic.com/engineering/multi-agent-research-system) `2025`
 1. Scaling Teams or Scaling Time? Memory Enabled Lifelong Learning in LLM Multi-Agent Systems. [[Paper]](https://arxiv.org/abs/2604.03295) `2026`
 ##### 3.4.1.2. Decentralized Architectures
 1. CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society. [[Paper]](https://proceedings.neurips.cc/paper/2023/hash/a3621ee907def47c1b952ade25c67698-Abstract-Conference.html) [[Code]](https://github.com/camel-ai/camel) `NeurIPS 2023`
@@ -366,10 +300,9 @@ The organization of this repository refers to our survey [<u>"Agent Systems with
 1. LLM-Driven Multi-Agent Architectures for Intelligent Self-Organizing Networks. [[Paper]](https://ieeexplore.ieee.org/abstract/document/11169757/) `IEEE Network 2025`
 1. ProAgent: Building Proactive Cooperative Agents with Large Language Models. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29710) `AAAI 2024`
 1. CONSENSAGENT: Towards Efficient and Effective Consensus in Multi-Agent LLM Interactions Through Sycophancy Mitigation. [[Paper]](https://aclanthology.org/2025.findings-acl.1141.pdf) [[Code]](https://github.com/priyapitre/CONSENSAGENT) `ACL Findings 2025`
-1. Building a C Compiler with a Team of Parallel Claudes. [[Paper]](https://www.anthropic.com/engineering/building-c-compiler) `2026`
-1. Multi-Agent Coordination Patterns: Five Approaches and When to Use Them. [[Paper]](https://claude.com/blog/multi-agent-coordination-patterns) `2026`
+1. Building a C Compiler with a Team of Parallel Claudes. [[Blog]](https://www.anthropic.com/engineering/building-c-compiler) `2026`
+1. Multi-Agent Coordination Patterns: Five Approaches and When to Use Them. [[Blog]](https://claude.com/blog/multi-agent-coordination-patterns) `2026`
 #### 3.4.2. Communication Mechanisms
-1. Don't Build Multi-Agents. [[Paper]](https://cognition.ai/blog/dont-build-multi-agents) `2025`
 
 ##### 3.4.2.1. Debate-based Methods
 1. MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework. [[Paper]](https://openreview.net/pdf?id=VtmBAGCN7o) [[Code]](https://github.com/geekan/MetaGPT) `ICLR 2024`
@@ -393,14 +326,14 @@ The organization of this repository refers to our survey [<u>"Agent Systems with
 1. MARFT: Multi-Agent Reinforcement Fine-Tuning. [[Paper]](https://arxiv.org/abs/2504.16129) [[Code]](https://github.com/jwliao-ai/MARFT) `arXiv 2025`
 1. AgentOrchestra: Orchestrating Multi-Agent Intelligence with the Tool-Environment-Agent(TEA) Protocol. [[Paper]](https://arxiv.org/abs/2506.12508) `2026`
 1. Toward Autonomous Long-Horizon Engineering for ML Research. [[Paper]](https://arxiv.org/abs/2604.13018) `arXiv 2026`
-1. How and When to Build Multi-Agent Systems. [[Paper]](https://www.langchain.com/blog/how-and-when-to-build-multi-agent-systems) `2025`
-1. Don't Build Multi-Agents. [[Paper]](https://cognition.ai/blog/dont-build-multi-agents) `2025`
-1. Multi-Agent Coordination Patterns: Five Approaches and When to Use Them. [[Paper]](https://claude.com/blog/multi-agent-coordination-patterns) `2026`
-1. How We Built Our Multi-Agent Research System. [[Paper]](https://www.anthropic.com/engineering/multi-agent-research-system) `2025`
+1. How and When to Build Multi-Agent Systems. [[Blog]](https://www.langchain.com/blog/how-and-when-to-build-multi-agent-systems) `2025`
+1. Don't Build Multi-Agents. [[Blog]](https://cognition.ai/blog/dont-build-multi-agents) `2025`
+1. Multi-Agent Coordination Patterns: Five Approaches and When to Use Them. [[Blog]](https://claude.com/blog/multi-agent-coordination-patterns) `2026`
+1. How We Built Our Multi-Agent Research System. [[Blog]](https://www.anthropic.com/engineering/multi-agent-research-system) `2025`
 ### 3.5. A Comparative View of Representative Agent Systems
 1. Claude Code Overview. `2026`
-1. OpenClaw: Personal AI Assistant. [[Paper]](https://openclaw.ai) `2026`
-1. Hermes Agent: The Agent That Grows With You. [[Paper]](https://hermes-agent.nousresearch.com/) `2026`
+1. Introducing OpenClaw. [[Blog]](https://openclaw.ai/blog/introducing-openclaw) `2026`
+1. Hermes Agent: The Agent That Grows With You. [[Website]](https://hermes-agent.nousresearch.com/) `2026`
 
 ##### 3.5.1. Agent Workflow
 ##### 3.5.2. Memory Systems
@@ -584,115 +517,14 @@ The organization of this repository refers to our survey [<u>"Agent Systems with
 1. MM-DeepResearch: A Simple and Effective Multimodal Agentic Search Baseline. [[Paper]](https://arxiv.org/abs/2603.01050) `arXiv 2026`
 
 ## 5. Harness Capacity and Evaluation
-1. WebArena: A Realistic Web Environment for Building Autonomous Agents. [[Paper]](https://arxiv.org/pdf/2307.13854) [[Code]](https://github.com/web-arena-x/webarena) `ICLR 2024`
-1. WorkArena: How Capable are Web Agents at Solving Common Knowledge Work Tasks?. [[Paper]](https://arxiv.org/pdf/2403.07718) [[Code]](https://github.com/ServiceNow/WorkArena) `ICML 2024`
-1. OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments. [[Paper]](https://arxiv.org/pdf/2404.07972) [[Code]](https://github.com/xlang-ai/OSWorld) `NeurIPS 2024`
-1. tau-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains. [[Paper]](https://arxiv.org/pdf/2406.12045) [[Code]](https://github.com/sierra-research/tau-bench) `arXiv 2024`
-1. AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents. [[Paper]](https://arxiv.org/pdf/2407.18901) [[Code]](https://github.com/StonyBrookNLP/appworld) `ACL 2024`
-1. Characterizing Deep Research: A Benchmark and Formal Definition. [[Paper]](https://arxiv.org/pdf/2508.04183) [[Code]](https://github.com/microsoft/LiveDRBench) `arXiv 2025`
-1. The Berkeley Function Calling Leaderboard (BFCL): From Tool Use to Agentic Evaluation of Large Language Models. [[Paper]](https://openreview.net/pdf?id=2GmDdhBdDk) [[Code]](https://github.com/ShishirPatil/gorilla/tree/main/berkeley-function-call-leaderboard) `ICML 2025`
-1. LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code. [[Paper]](https://arxiv.org/pdf/2403.07974) [[Code]](https://github.com/LiveCodeBench/LiveCodeBench) `ICLR 2025`
-1. PaperBench: Evaluating AI's Ability to Replicate AI Research. [[Paper]](https://arxiv.org/pdf/2504.01848) [[Code]](https://github.com/openai/preparedness) `ICML 2025`
-1. IDRBench: Interactive Deep Research Benchmark. [[Paper]](https://doi.org/10.48550/arXiv.2601.06676) `arXiv 2026`
-1. DeepResearch Bench II: Diagnosing Deep Research Agents via Rubrics from Expert Report. [[Paper]](https://doi.org/10.48550/arXiv.2601.08536) `arXiv 2026`
-1. OmniCode: A Benchmark for Evaluating Software Engineering Agents. [[Paper]](https://doi.org/10.48550/arXiv.2602.02262) `arXiv 2026`
-1. Live API-Bench: 2500+ Live APIs for Testing Multi-Step Tool Calling. [[Paper]](https://aclanthology.org/2026.eacl-long.143/) `ACL 2026`
-1. MMBench-GUI: Hierarchical Multi-Platform Evaluation Framework for GUI Agents. [[Paper]](https://doi.org/10.48550/arXiv.2507.19478) `arXiv 2025`
-1. TimeSeriesGym: A Scalable Benchmark for (Time Series) Machine Learning Engineering Agents. [[Paper]](https://doi.org/10.48550/arXiv.2505.13291) `arXiv 2025`
 
-### 5.1. Deep Research
-##### 5.1.1. Broad and Complex Search
-1. BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents. [[Paper]](https://doi.org/10.48550/arXiv.2504.12516) `arXiv 2025`
-1. Characterizing Deep Research: A Benchmark and Formal Definition. [[Paper]](https://arxiv.org/pdf/2508.04183) [[Code]](https://github.com/microsoft/LiveDRBench) `arXiv 2025`
-1. WideSearch: Benchmarking Agentic Broad Info-Seeking. [[Paper]](https://doi.org/10.48550/arXiv.2508.07999) `arXiv 2025`
-1. IDRBench: Interactive Deep Research Benchmark. [[Paper]](https://doi.org/10.48550/arXiv.2601.06676) `arXiv 2026`
-##### 5.1.2. Research Reports
-1. DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents. [[Paper]](https://arxiv.org/pdf/2506.11763) [[Code]](https://github.com/Ayanami0730/deep_research_bench) `arXiv 2025`
-1. ReportBench: Evaluating Deep Research Agents via Academic Survey Tasks. [[Paper]](https://arxiv.org/pdf/2508.15804) [[Code]](https://github.com/ByteDance-BandAI/ReportBench) `arXiv 2025`
-1. LiveResearchBench: A Live Benchmark for User-Centric Deep Research in the Wild. [[Paper]](https://arxiv.org/pdf/2510.14240) [[Code]](https://github.com/SalesforceAIResearch/LiveResearchBench) `arXiv 2025`
-1. DeepResearch Bench II: Diagnosing Deep Research Agents via Rubrics from Expert Report. [[Paper]](https://doi.org/10.48550/arXiv.2601.08536) `arXiv 2026`
-1. Towards Personalized Deep Research: Benchmarks and Evaluations. [[Paper]](https://doi.org/10.48550/arXiv.2509.25106) `arXiv 2025`
-1. Watching, Reasoning, and Searching: A Video Deep Research Benchmark on Open Web for Agentic Video Reasoning. [[Paper]](https://doi.org/10.48550/arXiv.2601.06943) `arXiv 2026`
-1. MMDeepResearch-Bench: A Benchmark for Multimodal Deep Research Agents. [[Paper]](https://doi.org/10.48550/arXiv.2601.12346) `arXiv 2026`
-##### 5.1.3. Survey Generation and Evaluation
-1. ResearchRubrics: A Benchmark of Prompts and Rubrics For Evaluating Deep Research Agents. [[Paper]](https://arxiv.org/pdf/2511.07685) [[Code]](https://github.com/scaleapi/researchrubrics) `arXiv 2025`
-1. DeepResearch Bench II: Diagnosing Deep Research Agents via Rubrics from Expert Report. [[Paper]](https://doi.org/10.48550/arXiv.2601.08536) `arXiv 2026`
-1. Towards Personalized Deep Research: Benchmarks and Evaluations. [[Paper]](https://doi.org/10.48550/arXiv.2509.25106) `arXiv 2025`
-### 5.2. Software Engineering
-##### 5.2.1. Repository Tasks
-1. RepoBench: Benchmarking Repository-Level Code Auto-Completion Systems. [[Paper]](https://arxiv.org/pdf/2306.03091) [[Code]](https://github.com/Leolty/repobench) `ICLR 2024`
-1. CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges. [[Paper]](https://arxiv.org/pdf/2401.07339) `ACL 2024`
-1. Can Language Models Replace Programmers for Coding? REPOCOD Says 'Not Yet'. [[Paper]](https://aclanthology.org/2025.acl-long.1204/) `ACL 2025`
-1. LoCoBench-Agent: An Interactive Benchmark for LLM Agents in Long-Context Software Engineering. [[Paper]](https://doi.org/10.48550/arXiv.2511.13998) `arXiv 2025`
-##### 5.2.2. Issue Resolution
-1. SWE-bench: Can Language Models Resolve Real-world Github Issues?. [[Paper]](https://arxiv.org/abs/2310.06770) [[Code]](https://github.com/SWE-bench/SWE-bench) `ICLR 2024`
-1. SWE-Bench Pro: Can AI Agents Solve Long-Horizon Software Engineering Tasks?. [[Paper]](https://doi.org/10.48550/arXiv.2509.16941) `arXiv 2025`
-1. LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code. [[Paper]](https://arxiv.org/pdf/2403.07974) [[Code]](https://github.com/LiveCodeBench/LiveCodeBench) `ICLR 2025`
-1. SWE-Bench++: A Framework for the Scalable Generation of Software Engineering Benchmarks from Open-Source Repositories. [[Paper]](https://doi.org/10.48550/arXiv.2512.17419) `arXiv 2025`
-1. SWE-Sharp-Bench: A Reproducible Benchmark for C# Software Engineering Tasks. [[Paper]](https://doi.org/10.1109/AIware69974.2025.00039) `2nd IEEE/ACM International Confere 2025`
-##### 5.2.3. Broader Engineering Workflows
-1. NL2Repo-Bench: Towards Long-Horizon Repository Generation Evaluation of Coding Agents. [[Paper]](https://doi.org/10.48550/arXiv.2512.12730) `arXiv 2025`
-1. FeatureBench: Benchmarking Agentic Coding for Complex Feature Development. [[Paper]](https://arxiv.org/pdf/2602.10975) [[Code]](https://github.com/LiberCoders/FeatureBench) `arXiv 2026`
-1. BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?. [[Paper]](https://arxiv.org/abs/2603.03194) `arXiv 2026`
-1. OmniCode: A Benchmark for Evaluating Software Engineering Agents. [[Paper]](https://doi.org/10.48550/arXiv.2602.02262) `arXiv 2026`
-### 5.3. Tool Use and Function Calling
-##### 5.3.1. Function Calling
-1. API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs. [[Paper]](https://arxiv.org/pdf/2304.08244) [[Code]](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/api-bank) `ACL 2023`
-1. The Berkeley Function Calling Leaderboard (BFCL): From Tool Use to Agentic Evaluation of Large Language Models. [[Paper]](https://openreview.net/pdf?id=2GmDdhBdDk) [[Code]](https://github.com/ShishirPatil/gorilla/tree/main/berkeley-function-call-leaderboard) `ICML 2025`
-1. Live API-Bench: 2500+ Live APIs for Testing Multi-Step Tool Calling. [[Paper]](https://aclanthology.org/2026.eacl-long.143/) `ACL 2026`
-##### 5.3.2. Tool Use
-1. ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs. [[Paper]](https://arxiv.org/pdf/2307.16789) [[Code]](https://github.com/OpenBMB/ToolBench) `ICLR 2024`
-1. AgentBench: Evaluating LLMs as Agents. [[Paper]](https://arxiv.org/pdf/2308.03688) [[Code]](https://github.com/THUDM/AgentBench) `ICLR 2024`
-1. GAIA: a benchmark for General AI Assistants. [[Paper]](https://arxiv.org/pdf/2311.12983) [[Code]](https://huggingface.co/gaia-benchmark) `ICLR 2024`
-1. ToolHop: A Query-Driven Benchmark for Evaluating Large Language Models in Multi-Hop Tool Use. [[Paper]](https://aclanthology.org/2025.acl-long.150/) `ACL 2025`
-##### 5.3.3. Stateful Interaction
-1. tau-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains. [[Paper]](https://arxiv.org/pdf/2406.12045) [[Code]](https://github.com/sierra-research/tau-bench) `arXiv 2024`
-1. AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents. [[Paper]](https://arxiv.org/pdf/2407.18901) [[Code]](https://github.com/StonyBrookNLP/appworld) `ACL 2024`
-1. AssistantBench: Can Web Agents Solve Realistic and Time-Consuming Tasks?. [[Paper]](https://arxiv.org/pdf/2407.15711) [[Code]](https://github.com/oriyor/assistantbench) `ACL 2024`
-1. Toolsandbox: A stateful, conversational, interactive evaluation benchmark for llm tool use capabilities. [[Paper]](https://arxiv.org/pdf/2408.04682) [[Code]](https://github.com/apple/ToolSandbox) `ACL Findings 2025`
-1. tau^2-Bench: Evaluating Conversational Agents in a Dual-Control Environment. [[Paper]](https://arxiv.org/pdf/2506.07982) [[Code]](https://github.com/sierra-research/tau2-bench) `arXiv 2025`
-1. DICE-BENCH: Evaluating the Tool-Use Capabilities of Large Language Models in Multi-Round, Multi-Party Dialogues. [[Paper]](https://aclanthology.org/2025.findings-acl.1375/) `ACL Findings 2025`
-1. CCTU: A Benchmark for Tool Use under Complex Constraints. [[Paper]](https://doi.org/10.48550/arXiv.2603.15309) `arXiv 2026`
-### 5.4. Computer Use and GUI Grounding
-##### 5.4.1. Web Navigation
-1. Mind2Web: Towards a Generalist Agent for the Web. [[Paper]](https://arxiv.org/pdf/2306.06070) [[Code]](https://github.com/OSU-NLP-Group/Mind2Web) `NeurIPS 2023`
-1. WebArena: A Realistic Web Environment for Building Autonomous Agents. [[Paper]](https://arxiv.org/pdf/2307.13854) [[Code]](https://github.com/web-arena-x/webarena) `ICLR 2024`
-##### 5.4.2. Computer Use
-1. VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks. [[Paper]](https://arxiv.org/pdf/2401.13649) [[Code]](https://github.com/web-arena-x/visualwebarena) `ACL 2024`
-1. WorkArena: How Capable are Web Agents at Solving Common Knowledge Work Tasks?. [[Paper]](https://arxiv.org/pdf/2403.07718) [[Code]](https://github.com/ServiceNow/WorkArena) `ICML 2024`
-1. Android in the Wild: A Large-Scale Dataset for Android Device Control. [[Paper]](https://arxiv.org/pdf/2307.10088) [[Code]](https://github.com/google-research/google-research/tree/master/android_in_the_wild) `arXiv 2023`
-1. OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments. [[Paper]](https://arxiv.org/pdf/2404.07972) [[Code]](https://github.com/xlang-ai/OSWorld) `NeurIPS 2024`
-1. AndroidWorld: A Dynamic Benchmarking Environment for Autonomous Agents. [[Paper]](https://arxiv.org/pdf/2405.14573) [[Code]](https://github.com/google-research/android_world) `ICLR 2025`
-1. Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale. [[Paper]](https://arxiv.org/pdf/2409.08264) [[Code]](https://github.com/microsoft/WindowsAgentArena) `ICML 2025`
-1. WorldGUI: An Interactive Benchmark for Desktop GUI Automation from Any Starting Point. [[Paper]](https://doi.org/10.48550/arXiv.2502.08047) `arXiv 2025`
-##### 5.4.3. GUI Grounding
-1. ScreenSpot-Pro: GUI Grounding for Professional High-Resolution Computer Use. [[Paper]](https://arxiv.org/pdf/2504.07981) [[Code]](https://github.com/likaixin2000/ScreenSpot-Pro-GUI-Grounding) `Proceedings of the 33rd ACM Intern 2025`
-1. Osworld-mcp: Benchmarking mcp tool invocation in computer-use agents. [[Paper]](https://arxiv.org/pdf/2510.24563) [[Code]](https://github.com/X-PLUG/OSWorld-MCP) `arXiv 2025`
-1. VenusBench-GD: A Comprehensive Multi-Platform GUI Benchmark for Diverse Grounding Tasks. [[Paper]](https://doi.org/10.48550/arXiv.2512.16501) `arXiv 2025`
-1. MMBench-GUI: Hierarchical Multi-Platform Evaluation Framework for GUI Agents. [[Paper]](https://doi.org/10.48550/arXiv.2507.19478) `arXiv 2025`
-### 5.5. ML Engineering and Scientific Research
-##### 5.5.1. ML Experimentation
-1. DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation. [[Paper]](https://arxiv.org/pdf/2211.11501) [[Code]](https://github.com/xlang-ai/DS-1000) `ICML 2023`
-1. MLAgentBench: Evaluating Language Agents on Machine Learning Experimentation. [[Paper]](https://arxiv.org/pdf/2310.03302) [[Code]](https://github.com/snap-stanford/MLAgentBench) `ICML 2024`
-1. TimeSeriesGym: A Scalable Benchmark for (Time Series) Machine Learning Engineering Agents. [[Paper]](https://doi.org/10.48550/arXiv.2505.13291) `arXiv 2025`
-##### 5.5.2. Scientific Workflows
-1. DA-Code: Agent Data Science Code Generation Benchmark for Large Language Models. [[Paper]](https://arxiv.org/pdf/2410.07331) [[Code]](https://github.com/yiyihum/da-code) `ACL 2024`
-1. ScienceAgentBench: Toward Rigorous Assessment of Language Agents for Data-Driven Scientific Discovery. [[Paper]](https://arxiv.org/pdf/2410.05080) [[Code]](https://github.com/OSU-NLP-Group/ScienceAgentBench) `ICLR 2025`
-1. MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering. [[Paper]](https://arxiv.org/pdf/2410.07095) [[Code]](https://github.com/openai/mle-bench) `ICLR 2025`
-1. ResearchBench: Benchmarking LLMs in Scientific Discovery via Inspiration-Based Task Decomposition. [[Paper]](https://doi.org/10.48550/arXiv.2503.21248) `arXiv 2025`
-##### 5.5.3. Research Replication
-1. PaperBench: Evaluating AI's Ability to Replicate AI Research. [[Paper]](https://arxiv.org/pdf/2504.01848) [[Code]](https://github.com/openai/preparedness) `ICML 2025`
-1. MLR-Bench: Evaluating AI Agents on Open-Ended Machine Learning Research. [[Paper]](https://arxiv.org/pdf/2505.19955) [[Code]](https://github.com/chchenhui/mlrbench) `arXiv 2025`
-1. FML-bench: Benchmarking Machine Learning Agents for Scientific Research. [[Paper]](https://arxiv.org/pdf/2510.10472) [[Code]](https://github.com/qrzou/FML-bench) `arXiv 2025`
-1. ReplicatorBench: Benchmarking LLM Agents for Replicability in Social and Behavioral Sciences. [[Paper]](https://arxiv.org/pdf/2602.11354) [[Code]](https://github.com/CenterForOpenScience/llm-benchmarking) `arXiv 2026`
-1. SWE-bench: Can Language Models Resolve Real-world Github Issues?. [[Paper]](https://arxiv.org/abs/2310.06770) [[Code]](https://github.com/SWE-bench/SWE-bench) `ICLR 2024`
-1. MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering. [[Paper]](https://arxiv.org/pdf/2410.07095) [[Code]](https://github.com/openai/mle-bench) `ICLR 2025`
-1. tau-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains. [[Paper]](https://arxiv.org/pdf/2406.12045) [[Code]](https://github.com/sierra-research/tau-bench) `arXiv 2024`
-1. ResearchRubrics: A Benchmark of Prompts and Rubrics For Evaluating Deep Research Agents. [[Paper]](https://arxiv.org/pdf/2511.07685) [[Code]](https://github.com/scaleapi/researchrubrics) `arXiv 2025`
-1. TRAJECT-Bench: A Trajectory-Aware Benchmark for Evaluating Agentic Tool Use. [[Paper]](https://arxiv.org/abs/2510.04550) `arXiv 2025`
-1. DeepResearch Bench II: Diagnosing Deep Research Agents via Rubrics from Expert Report. [[Paper]](https://doi.org/10.48550/arXiv.2601.08536) `arXiv 2026`
-1. IDRBench: Interactive Deep Research Benchmark. [[Paper]](https://doi.org/10.48550/arXiv.2601.06676) `arXiv 2026`
-1. OmniCode: A Benchmark for Evaluating Software Engineering Agents. [[Paper]](https://doi.org/10.48550/arXiv.2602.02262) `arXiv 2026`
+This section summarizes the major evaluation domains for agentic harness engineering. For the complete benchmark index, see [Representative Benchmarks by Task Domain](#7-representative-benchmarks-by-task-domain).
+
+- **Deep Research**: browsing, broad search, report generation, and survey-style evaluation.
+- **Software Engineering**: repository-level tasks, issue resolution, and long-horizon engineering workflows.
+- **Tool Use and Function Calling**: API planning, function calling, tool-use reasoning, and stateful interaction.
+- **Computer Use and GUI Grounding**: web navigation, desktop/mobile control, and GUI grounding.
+- **ML Engineering and Scientific Research**: data science, machine learning experimentation, scientific workflows, and research replication.
 
 ## 6. Future Directions
 ### 6.1. Efficiency
@@ -716,7 +548,7 @@ The organization of this repository refers to our survey [<u>"Agent Systems with
 1. MemGPT: Towards LLMs as Operating Systems. [[Paper]](https://arxiv.org/pdf/2310.08560) [[Code]](https://research.memgpt.ai/) `arXiv 2023`
 1. A-Mem: Agentic Memory for LLM Agents. [[Paper]](https://arxiv.org/pdf/2502.12110) [[Code]](https://github.com/WujiangXu/A-mem) `NeurIPS 2025`
 1. Memory as Action: Autonomous Context Curation for Long-Horizon Agentic Tasks. [[Paper]](https://doi.org/10.48550/arXiv.2510.12635) `arXiv 2025`
-1. Context Engineering: Memory, Compaction, and Tool Clearing. [[Paper]](https://platform.claude.com/cookbook/tool-use-context-engineering-context-engineering-tools) `2026`
+1. Context Engineering: Memory, Compaction, and Tool Clearing. [[Docs]](https://platform.claude.com/cookbook/tool-use-context-engineering-context-engineering-tools) `2026`
 1. Agent Workflow Memory. [[Paper]](https://arxiv.org/pdf/2409.07429) [[Code]](https://github.com/zorazrw/agent-workflow-memory) `ICML 2025`
 ### 6.4. State and Environment Modeling
 1. WorldCoder, a Model-Based LLM Agent: Building World Models by Writing Code and Interacting with the Environment. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/820c61a0cd419163ccbd2c33b268816e-Abstract-Conference.html) `NeurIPS 2024`
@@ -751,7 +583,6 @@ The organization of this repository refers to our survey [<u>"Agent Systems with
 ### 7.1. Deep Research
 1. BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents. [[Paper]](https://doi.org/10.48550/arXiv.2504.12516) [[Code]](https://github.com/openai/simple-evals) `2025.04` - Browsing-based information seeking; Rule-based
 1. IDRBench: Interactive Deep Research Benchmark. [[Paper]](https://doi.org/10.48550/arXiv.2601.06676) `2025.05` - Web research; Rule-based
-1. IDRBench: Interactive Deep Research Benchmark. [[Paper]](https://doi.org/10.48550/arXiv.2601.06676) [[Code]](https://github.com/Ayanami0730/deep_research_bench) `2025.06` - Deep research report generation; Rule-based
 1. ReportBench: Evaluating Deep Research Agents via Academic Survey Tasks. [[Paper]](https://arxiv.org/pdf/2508.15804) [[Code]](https://github.com/ByteDance-BandAI/ReportBench) `2025.08` - Academic survey / report generation; Rule-based
 1. Characterizing Deep Research: A Benchmark and Formal Definition. [[Paper]](https://arxiv.org/pdf/2508.04183) [[Code]](https://github.com/microsoft/LiveDRBench) `2025.08` - Deep research benchmarking; Rule-based
 1. WideSearch: Benchmarking Agentic Broad Info-Seeking. [[Paper]](https://doi.org/10.48550/arXiv.2508.07999) [[Code]](https://github.com/ByteDance-Seed/WideSearch) `2025.08` - Agentic broad information seeking; Rule-based
@@ -765,7 +596,6 @@ The organization of this repository refers to our survey [<u>"Agent Systems with
 ### 7.2. Software Engineering
 1. RepoBench: Benchmarking Repository-Level Code Auto-Completion Systems. [[Paper]](https://arxiv.org/pdf/2306.03091) [[Code]](https://github.com/Leolty/repobench) `2023.06` - Repository-level code auto-completion; Rule-based
 1. SWE-bench: Can Language Models Resolve Real-world Github Issues?. [[Paper]](https://arxiv.org/abs/2310.06770) [[Code]](https://github.com/SWE-bench/SWE-bench) `2023.10` - Real-world GitHub issue resolution; Rule-based
-1. DA-Code: Agent Data Science Code Generation Benchmark for Large Language Models. [[Paper]](https://arxiv.org/pdf/2410.07331) [[Code]](https://github.com/yiyihum/da-code) `2024.01` - Tool-integrated repo-level coding challenges; Rule-based
 1. LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code. [[Paper]](https://arxiv.org/pdf/2403.07974) [[Code]](https://github.com/LiveCodeBench/LiveCodeBench) `2024.03` - Holistic contamination-free code evaluation; Rule-based
 1. Can Language Models Replace Programmers for Coding? REPOCOD Says 'Not Yet'. [[Paper]](https://aclanthology.org/2025.acl-long.1204/) [[Code]](https://github.com/lt-asset/REPOCOD) `2024.10` - Realistic repository-level coding; Rule-based
 1. SWE-Bench Pro: Can AI Agents Solve Long-Horizon Software Engineering Tasks?. [[Paper]](https://doi.org/10.48550/arXiv.2509.16941) [[Code]](https://github.com/scaleapi/SWE-bench_Pro-os) `2025.09` - Long-horizon software engineering tasks; Rule-based
@@ -796,7 +626,6 @@ The organization of this repository refers to our survey [<u>"Agent Systems with
 1. Android in the Wild: A Large-Scale Dataset for Android Device Control. [[Paper]](https://arxiv.org/pdf/2307.10088) [[Code]](https://github.com/google-research/google-research/tree/master/android_in_the_wild) `2023.07` - Android device control; Rule-based
 1. VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks. [[Paper]](https://arxiv.org/pdf/2401.13649) [[Code]](https://github.com/web-arena-x/visualwebarena) `2024.01` - Multimodal visual web tasks; Rule-based
 1. WorkArena: How Capable are Web Agents at Solving Common Knowledge Work Tasks?. [[Paper]](https://arxiv.org/pdf/2403.07718) [[Code]](https://github.com/ServiceNow/WorkArena) `2024.03` - Common knowledge-work web tasks; Rule-based
-1. Osworld-mcp: Benchmarking mcp tool invocation in computer-use agents. [[Paper]](https://arxiv.org/pdf/2510.24563) [[Code]](https://github.com/X-PLUG/OSWorld-MCP) `2024.04` - Open-ended real computer use; Rule-based
 1. AndroidWorld: A Dynamic Benchmarking Environment for Autonomous Agents. [[Paper]](https://arxiv.org/pdf/2405.14573) [[Code]](https://github.com/google-research/android_world) `2024.05` - Dynamic Android interaction environment; Rule-based
 1. Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale. [[Paper]](https://arxiv.org/pdf/2409.08264) [[Code]](https://github.com/microsoft/WindowsAgentArena) `2024.09` - Multi-modal desktop OS tasks; Rule-based
 1. WorldGUI: An Interactive Benchmark for Desktop GUI Automation from Any Starting Point. [[Paper]](https://doi.org/10.48550/arXiv.2502.08047) [[Code]](https://github.com/showlab/WorldGUI) `2025.02` - Dynamic testing for desktop GUI automation; Rule-based

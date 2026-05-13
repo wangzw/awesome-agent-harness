@@ -25,13 +25,6 @@ The organization of this repository refers to our survey [<u>"Agent Systems with
 - [7. Representative Benchmarks by Task Domain](#7-representative-benchmarks-by-task-domain)
 - [8. Citation](#8-citation)
 
-## How to Use This Repo
-
-- Browse by section: the list follows the current survey manuscript order.
-- Entries are generated from active LaTeX citations and the active benchmark summary table, not from every BibTeX entry.
-- Each entry includes a required `[[Paper]]` link when available from the manuscript BibTeX, the previous README, or a paper URL in the table.
-- `[[Code]]` links are included only when they are inherited from the previous README or clearly correspond to the benchmark/project URL in the paper table.
-
 ## 1. Introduction
 1. A Survey of Large Language Models. [[Paper]](https://doi.org/10.48550/arXiv.2303.18223) `arXiv 2023`
 1. A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval. [[Paper]](https://doi.org/10.48550/arXiv.2503.05659) `arXiv 2025`

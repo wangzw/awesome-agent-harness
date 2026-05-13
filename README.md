@@ -12,8 +12,7 @@
   <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-lightgrey" alt="license"></a>
 </p>
 
-A curated collection of papers and resources related to **Agent Systems with Harness Engineering: A Systematic Survey**.
-This repository refers to our survey [<u>"Agent Systems with Harness Engineering: A Systematic Survey(coming soon)"</u>](#7-citation).
+A curated list of papers and resources on agent systems with harness engineering, based on our survey [<u>"Agent Systems with Harness Engineering: A Systematic Survey (coming soon)"</u>](#7-citation).
 
 ## Table of Contents
 

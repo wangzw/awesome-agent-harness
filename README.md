@@ -23,7 +23,7 @@ The organization of this repository refers to our survey [<u>"Agent Systems with
 - [4. Harness Capacity and Evaluation](#4-harness-capacity-and-evaluation)
 - [5. Future Directions](#5-future-directions)
 - [6. Representative Benchmarks by Task Domain](#6-representative-benchmarks-by-task-domain)
-- [7. Citation](#7-citation)
+- [Citation](#7-citation)
 
 ## 1. Foundations of Harness Engineering
 1. AI runtime infrastructure. [[Paper]](https://arxiv.org/abs/2603.00495) `arXiv 2026`
@@ -624,6 +624,6 @@ This section summarizes the major evaluation domains for agentic harness enginee
 1. FML-bench: Benchmarking Machine Learning Agents for Scientific Research. [[Paper]](https://arxiv.org/pdf/2510.10472) [[Code]](https://github.com/qrzou/FML-bench) `2025.10` - Automatic ML research; Rule-based
 1. ReplicatorBench: Benchmarking LLM Agents for Replicability in Social and Behavioral Sciences. [[Paper]](https://arxiv.org/pdf/2602.11354) [[Code]](https://github.com/CenterForOpenScience/llm-benchmarking) `2026.02` - Replicability in social and behavioral sciences; LLM Judge / Human Judge
 
-## 7. Citation
+## Citation
 
 If you find our survey useful for your research, please consider citing the survey paper and starring this repository.

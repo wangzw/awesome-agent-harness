@@ -156,8 +156,8 @@ A curated list of papers and resources on agent systems with harness engineering
 1. Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning. [[Paper]](https://doi.org/10.48550/arXiv.2508.19828) `arXiv 2025`
 1. O-Mem: Omni Memory System for Personalized, Long Horizon, Self-Evolving Agents. [[Paper]](https://arxiv.org/abs/2511.13593) `arXiv 2025`
 1. General Agentic Memory Via Deep Research. [[Paper]](https://arxiv.org/abs/2511.18423) `arXiv 2025`
-1. Mem0: Universal Memory Layer for AI Agents. [[Code]](https://github.com/mem0ai/mem0) `2026`
-1. OpenMemory: AI Memory MCP Server for Coding Agents. [[Website]](https://mem0.ai/openmemory) `2026`
+1. Mem0: Universal Memory Layer for AI Agents. [[Code]](https://github.com/mem0ai/mem0) `Repo 2026`
+1. OpenMemory: AI Memory MCP Server for Coding Agents. [[Website]](https://mem0.ai/openmemory) `Web 2026`
 1. Memory - Docs by LangChain. [[Docs]](https://docs.langchain.com/oss/python/deepagents/memory) `Docs 2026`
 1. Context Engineering: Memory, Compaction, and Tool Clearing. [[Docs]](https://platform.claude.com/cookbook/tool-use-context-engineering-context-engineering-tools) `Docs 2026`
 ### 2.3. Skill Libraries

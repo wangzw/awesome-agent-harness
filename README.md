@@ -390,7 +390,7 @@ A curated list of papers and resources on agent systems with harness engineering
 1. Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory. [[Paper]](https://arxiv.org/pdf/2504.19413) [[Code]](https://mem0.ai/research) `ECAI 2025`
 1. A-Mem: Agentic Memory for LLM Agents. [[Paper]](https://arxiv.org/pdf/2502.12110) [[Code]](https://github.com/WujiangXu/A-mem) `NeurIPS 2025`
 1. HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model. [[Paper]](https://aclanthology.org/2025.acl-long.1575/) `ACL 2025`
-1. Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models. [[Paper]](https://arxiv.org/abs/2510.04618) [[Code]](https://github.com/ace-agent/ace) `ICLR 2026 Workshop`
+1. Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models. [[Paper]](https://arxiv.org/abs/2510.04618) [[Code]](https://github.com/ace-agent/ace) `ICLR 2026`
 1. Dynamic Affective Memory Management for Personalized LLM Agents. [[Paper]](https://arxiv.org/abs/2510.27418) `arXiv 2025`
 1. Meta Context Engineering via Agentic Skill Evolution. [[Paper]](https://arxiv.org/abs/2601.21557) [[Code]](https://github.com/metaevo-ai/meta-context-engineering) `ICML 2026`
 1. AgentSys: Secure and Dynamic LLM Agents Through Explicit Hierarchical Memory Management. [[Paper]](https://arxiv.org/abs/2602.07398) `arXiv 2026`

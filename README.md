@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="#citation"><img src="https://img.shields.io/badge/Paper-Coming%20Soon-blueviolet" alt="paper"></a>
+  <a href="paper/Agent_Systems_with_Harness_Engineering__A_Systematic_Survey.pdf"><img src="https://img.shields.io/badge/Paper-PDF-blueviolet" alt="paper"></a>
   <a href="#"><img src="https://img.shields.io/badge/Status-Building-2ea44f" alt="status"></a>
   <a href="#"><img src="https://img.shields.io/badge/Survey%20Refs-502-blue" alt="survey references"></a>
   <a href="#"><img src="https://img.shields.io/badge/Last%20Update-2026--05--19-orange" alt="last-update"></a>
@@ -13,18 +13,31 @@
 </p>
 
 A curated list of papers and resources on agent systems with harness engineering, based on our survey:<br>
-[<u>"Agent Systems with Harness Engineering: A Systematic Survey (coming soon)"</u>](#citation).
+[<u>"Agent Systems with Harness Engineering: A Systematic Survey"</u>](./paper/Agent_Systems_with_Harness_Engineering__A_Systematic_Survey.pdf).
+
+<p align="center">
+  <img src="./figures/timeline-v9.png" alt="Timeline of agent systems with harness engineering" width="100%">
+</p>
+
+<p align="center"><em>Timeline of agent systems with harness engineering.</em></p>
 
 ## Table of Contents
 
-- [1. Developmental Phases of Harness Engineering](#1-developmental-phases-of-harness-engineering)
+- [1. Evolution of Harness Engineering](#1-evolution-of-harness-engineering)
 - [2. The Design of the Harness](#2-the-design-of-the-harness)
 - [3. Model Adaptation for Harness](#3-model-adaptation-for-harness)
 - [4. Representative Benchmarks by Task Domain](#4-representative-benchmarks-by-task-domain)
 - [5. Future Directions](#5-future-directions)
 - [Citation](#citation)
 
-## 1. Developmental Phases of Harness Engineering
+## 1. Evolution of Harness Engineering
+
+<p align="center">
+  <img src="./figures/chapter2-v9.png" alt="Three layers in the evolution of harness architecture" width="100%">
+</p>
+
+<p align="center"><em>Three layers in the evolution of harness architecture.</em></p>
+
 ### 1.1. Action Interface: Connecting Model to Environment
 1. Quine: Realizing LLM Agents as Native POSIX Processes. [[Paper]](https://arxiv.org/abs/2603.18030) `arXiv 2026`
 1. ceLLMate: Sandboxing Browser AI Agents. [[Paper]](https://doi.org/10.48550/arXiv.2512.12594) `arXiv 2025`
@@ -42,7 +55,7 @@ A curated list of papers and resources on agent systems with harness engineering
 1. VeRO: An Evaluation Harness for Agents to Optimize Agents. [[Paper]](https://arxiv.org/abs/2602.22480) `ICML 2026`
 1. OpenHands: An Open Platform for AI Software Developers as Generalist Agents. [[Paper]](https://openreview.net/forum?id=OJd3ayDDoF) `ICLR 2025`
 1. Claude Code Overview. [[Docs]](https://docs.claude.com/en/docs/claude-code/overview) `Docs 2026`
-### 1.3. Persistence Architecture: Sustaining User-Centric Continuity
+### 1.3. User-Centric Persistence: Continuity Across Sessions and Channels
 1. Toward Personalized LLM-Powered Agents: Foundations, Evaluation, and Future Directions. [[Paper]](https://arxiv.org/abs/2602.22680) `arXiv 2026`
 1. Enabling Personalized Long-term Interactions in LLM-based Agents through Persistent Memory and User Profiles. [[Paper]](https://doi.org/10.48550/arXiv.2510.07925) `arXiv 2025`
 1. User Preference Modeling for Conversational LLM Agents: Weak Rewards from Retrieval-Augmented Interaction. [[Paper]](https://arxiv.org/abs/2603.20939) `arXiv 2026`

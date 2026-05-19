@@ -7,8 +7,8 @@
 <p align="center">
   <a href="#citation"><img src="https://img.shields.io/badge/Paper-Coming%20Soon-blueviolet" alt="paper"></a>
   <a href="#"><img src="https://img.shields.io/badge/Status-Building-2ea44f" alt="status"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Survey%20Refs-416-blue" alt="survey references"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Last%20Update-2026--05--13-orange" alt="last-update"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Survey%20Refs-502-blue" alt="survey references"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Last%20Update-2026--05--19-orange" alt="last-update"></a>
   <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-lightgrey" alt="license"></a>
 </p>
 

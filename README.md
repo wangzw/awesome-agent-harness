@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="paper/Agent_Systems_with_Harness_Engineering__A_Systematic_Survey.pdf"><img src="https://img.shields.io/badge/Paper-PDF-blueviolet" alt="paper"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Status-Building-2ea44f" alt="status"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Status-Maintained-2ea44f" alt="status"></a>
   <a href="#"><img src="https://img.shields.io/badge/Survey%20Refs-502-blue" alt="survey references"></a>
   <a href="#"><img src="https://img.shields.io/badge/Last%20Update-2026--05--19-orange" alt="last-update"></a>
   <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-lightgrey" alt="license"></a>

@@ -682,3 +682,12 @@ A curated list of papers and resources on agent systems with harness engineering
 ## Citation
 
 If you find our survey useful for your research, please consider citing the survey paper and starring this repository.
+```bibtex
+@misc{tang2026agent,
+  title={Agent Systems with Harness Engineering: A Systematic Survey},
+  author={Xinyu Tang and Han Peng and Guoxin Chen and Yuze Shi and
+          Zitao Su and Peiyu Liu and Wayne Xin Zhao and Yawen Li and
+          Zhe Xue},
+  url={https://openreview.net/pdf?id=nM5tDHrQsx},
+  year={2026}
+}

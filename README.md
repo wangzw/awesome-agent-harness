@@ -22,6 +22,8 @@ A curated list of papers and resources on agent systems with harness engineering
 
 <p align="center"><em>Timeline of agent systems with harness engineering.</em></p>
 
+> **Tip:** If you have any questions for our paper, please send an email to [txy20010310@163.com](mailto:txy20010310@163.com).
+
 ## Table of Contents
 
 - [1. Evolution of Harness Engineering](#1-evolution-of-harness-engineering)

@@ -1,4 +1,4 @@
-# Agent Systems with Harness Engineering: A Systematic Survey
+# Agent Systems with Harness Engineering
 
 <p align="center">
   <strong>A Curated Reading List and Structured Roadmap</strong>

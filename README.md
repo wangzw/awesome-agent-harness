@@ -13,7 +13,7 @@
   <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-lightgrey" alt="license"></a>
 </p>
 
-A curated list of papers and resources on agent systems with harness engineering, based on our survey:<br>
+A curated list of papers and resources on agent systems with harness engineering, based on our paper:<br>
 [<u>"Agent Systems with Harness Engineering"</u>](./paper/Agent_Systems_with_Harness_Engineering__A_Systematic_Survey.pdf).
 
 <p align="center">
